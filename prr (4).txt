@@ -622,7 +622,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/248/12?f=.m3u8|User
 #EXTINF:-1 tvg-id="DisneyJunior.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/djr.png" group-title="DISH",Disney Junior
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/255/12?f=.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="DISH",Cartoon Network
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/249/12?f=.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+https://delivery.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyTv.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/baby.png" group-title="DISH",Baby TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/464/12?f=.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="NickJr.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/njr.png" group-title="DISH",Nick Jr.
