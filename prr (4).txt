@@ -1,13 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1,GALAVISION 
+http://23.237.108.234/hls/HDGALAVISION.m3u8|User-Agent=Roku/DVP(10.10.10)
 
-EXTINF:-1  tvg-logo="https://media.tvup.cloud/canales/color_lg_61f7b07144278f00213e4772.png" group-title="CENTROAMERICA",CUBAVISIÓN
-https://tvup-live.secure2.footprint.net/hustler/hustler.mpd
-#EXTVLCOPT:http-referrer=https://mediasync.tvup.cloud
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:audio-track="es-ES"
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1,WWE
+http://23.237.108.234/hls/USA_WWE.m3u8|User-Agent=Roku/DVP(10.10.10)
+
+#EXTINF:-1,WWE 1
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+
+#EXTINF:-1,UFC
+https://webudit.cdnhks.lol/lb/premium521/index.m3u8?|referer=https://olacast.live/&e.m3u8
 
 
 #EXTINF:-1 group-title="Lista 3",A&E 
